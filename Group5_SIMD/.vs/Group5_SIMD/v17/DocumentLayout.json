@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807EB9E5-F7F8-4331-AEA0-72E87B01BBEF}|Group5_SIMD.vcxproj|C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{807EB9E5-F7F8-4331-AEA0-72E87B01BBEF}|Group5_SIMD.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807EB9E5-F7F8-4331-AEA0-72E87B01BBEF}|Group5_SIMD.vcxproj|C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{807EB9E5-F7F8-4331-AEA0-72E87B01BBEF}|Group5_SIMD.vcxproj|solutionrelative:asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asmfunc.asm",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\asmfunc.asm",
+              "RelativeDocumentMoniker": "asmfunc.asm",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\asmfunc.asm",
+              "RelativeToolTip": "asmfunc.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T10:39:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\Others\\DLSU\\AY 2023-2024\\Term 3\\CEPARCO\\SIMD Project\\Group5_SIMD\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-27T10:39:46.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

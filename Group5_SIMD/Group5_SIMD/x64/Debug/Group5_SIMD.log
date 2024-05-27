@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Erin\Desktop\Others\DLSU\AY 2023-2024\Term 3\CEPARCO\SIMD Project\Group5_SIMD\main.c(43,4): warning C4047: '=': 'int32_t' differs in levels of indirection from 'int32_t *'
+C:\Users\Erin\Desktop\Others\DLSU\AY 2023-2024\Term 3\CEPARCO\SIMD Project\Group5_SIMD\main.c(48,10): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\Erin\Desktop\Others\DLSU\AY 2023-2024\Term 3\CEPARCO\SIMD Project\Group5_SIMD\main.c(53,28): warning C4047: 'function': 'int32_t **' differs in levels of indirection from 'int32_t *'
+C:\Users\Erin\Desktop\Others\DLSU\AY 2023-2024\Term 3\CEPARCO\SIMD Project\Group5_SIMD\main.c(53,28): warning C4024: 'c_stencil': different types for formal and actual parameter 3
+  Group5_SIMD.vcxproj -> C:\Users\Erin\Desktop\Others\DLSU\AY 2023-2024\Term 3\CEPARCO\SIMD Project\Group5_SIMD\x64\Debug\Group5_SIMD.exe
