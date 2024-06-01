@@ -4,10 +4,10 @@ section .text
 bits 64
 default rel
 
-global nonsimd_stencil
+global simdxmm_stencil
 extern printf
 
-nonsimd_stencil:
+simdxmm_stencil:
 	
 
 	ret
